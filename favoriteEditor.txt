@@ -1,0 +1,2 @@
+My favorite text editor is Atom.
+This is because it has smart autocompletion and color coding for key words in any programming language.
